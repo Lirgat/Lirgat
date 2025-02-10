@@ -29,8 +29,7 @@
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Lirgat&theme=dark&show_icons=true&count_private=true"><br>
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Lirgat&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Lirgat&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![codewars](https://www.codewars.com/users/Lirgat/badges/large)](https://www.codewars.com/users/Lirgat)
 
 ## Связь со мной
 
