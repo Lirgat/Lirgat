@@ -10,7 +10,7 @@
 *   В процессе работы научился верстать HTML письма
 *   В настоящий момент самостоятельно работаю над UI-kit, аналогом bootstrap
 
-## My Skills
+## Мои навыки
 
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
@@ -23,13 +23,13 @@
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
 
-## GitHub Stats
+## Статистика
 
 <table><tbody><tr border="none"><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Lirgat&theme=dark&show_icons=true&count_private=true"><br>
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Lirgat&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Lirgat&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-## Connect with me
+## Связь со мной
 
 <p align="center">🔗 Телеграм: <a href="https://t.me/PocoExplodes" target="_blank">Владимир Выборнов</a> Email: veb455@mail.ru</p>
