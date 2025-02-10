@@ -30,6 +30,8 @@
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Lirgat&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Lirgat&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 ## Связь со мной
 
 <p align="center">🔗 Телеграм: <a href="https://t.me/PocoExplodes" target="_blank">Владимир Выборнов</a> Email: veb455@mail.ru</p>
